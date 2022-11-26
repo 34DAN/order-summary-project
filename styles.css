@@ -22,15 +22,15 @@ h1, h4 {
 
 h1 {
     margin: 15px 0 ;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
 }
 
-h4 {
-    font-size: .9rem;
+h2 {
+    font-size: 1rem;
 }
 
 p {
-    font-size: .9rem;
+    font-size: 1rem;
     color: hsl(224, 23%, 55%);
 }
 
@@ -48,7 +48,7 @@ main {
 
 .panel {
     background-color: white;
-    width: 325px;
+    width: 30rem;
     border-radius: 15px;
     box-shadow: 2px 18px 27px 4px rgba(85,79,181,0.3);
 -webkit-box-shadow: 2px 18px 27px 4px rgba(85,79,181,0.3);
@@ -61,7 +61,7 @@ main {
 }
 
 .inner-content-container {
-    margin: 30px;
+    margin: 30px 35px;
 }
 
 .text-container {
@@ -84,15 +84,15 @@ main {
 
 .order-plan-type > a {
     width: 20%;
-    font-size: .9rem;
+    font-size: 1rem;
     font-weight: 600;
-    transition: .5s ease all;
+    transition: .2s ease all;
 }
 
 .order-plan-type > a:hover {
     color: hsl(245, 71%, 66%);
     text-decoration: none;
-    transition: .5s ease all;
+    transition: .2s ease all;
 }
 
 .plan-info {
